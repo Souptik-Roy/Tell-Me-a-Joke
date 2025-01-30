@@ -23,6 +23,7 @@ Method 1: Displays a joke via an alert box.<br>
 Method 2: (Planned) Updates the joke text directly on the webpage.
 
 ## Future Improvements
+-Implement Method 2 to display jokes without alerts.
 - Prevent duplicate jokes.
 - Enhance UI with animations.
 
