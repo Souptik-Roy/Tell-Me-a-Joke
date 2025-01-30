@@ -19,7 +19,7 @@
 3. A random joke appears.
    
 ## Methods:
-Method 1: Displays a joke via an alert box.
+Method 1: Displays a joke via an alert box.<br>
 Method 2: (Planned) Updates the joke text directly on the webpage.
 
 ## Future Improvements
