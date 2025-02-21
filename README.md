@@ -1,4 +1,4 @@
-[# Tell-Me-a-Joke /https://tellme-a-joke.netlify.app/]
+# [Tell-Me-a-Joke]( /https://tellme-a-joke.netlify.app/)
 
 ## Description
 'Tell Me a Joke' is a simple web app that displays random Indian-themed jokes on button clicks using JavaScript.
